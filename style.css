@@ -16,6 +16,14 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+}
+
 body {
   background-color: #FEF9EF;
   color: #4b4b4b;
@@ -149,6 +157,7 @@ text-align: center;
   border: solid;
   border-radius: 10px;
   border-width: 2px;
+  margin-bottom: 20px;
 }
 
 .btn-practup:hover {
