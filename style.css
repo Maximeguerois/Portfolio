@@ -1,0 +1,133 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+
+h1 {
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  font-size: 45px;
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  font-size: 28px;
+  color: black;
+  text-align: center;
+}
+
+body {
+  background-color: #FEF9EF;
+  color: #4b4b4b;
+  font-family: 'Space Mono', monospace;
+  font-weight: 400;
+  line-height : 130%;
+  text-align: center;
+
+}
+
+img {
+  width: 130px;
+  border-radius: 70px;
+}
+
+.banner-twitter {
+  width: 100%;
+}
+
+
+
+.list-inline {
+  list-style: none;
+  color: black;
+}
+
+.list-inline > li {
+  color: black;
+  display: inline-block;
+}
+
+
+
+
+.border-radius {
+  border-radius: 10px;
+}
+
+.padding {
+  padding: 15px;
+}
+
+.padding-right {
+  padding-right: 15px;
+}
+
+.padding-bottom {
+  padding-bottom: 15px;
+}
+
+.padding-top-bottom {
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+.box-shadow {
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.18);
+}
+
+.center {
+text-align: center;
+}
+
+
+.padding-text {
+  max-width: 900px;
+}
+
+
+
+
+
+
+.btn-home {
+  font-family: 'Space Mono', monospace;
+  font-weight: 600;
+  display: inline-block;
+  padding: 15px 30px;
+  color: black;
+  text-decoration: none;
+  font-size: 18px;
+  border: solid;
+  border-width: 2px;
+}
+
+.btn-black:hover {
+  background-color: gold;
+}
+
+.container {
+    width: 70%;
+    max-width: 960px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.card-intro {
+  background-color : white;
+}
+
+.card-contact {
+  background-color: white;
+  margin-top: 25px;
+}
+
+.card-contact a {
+  color: black;
+  text-decoration: none;
+}
+
+.card-practup {
+  background-color: white;
+  margin-top: 25px;
+}
